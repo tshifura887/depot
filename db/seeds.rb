@@ -21,6 +21,6 @@ panic. Tackle just about any API challenge with more than a dozen
 open-source utilities and common programming patterns you can apply
 right away.
 </p>},
-image_url: 'maapis.jpg',
+image_url: 'https://pragprog.com/titles/maapis/design-and-build-great-web-apis/maapis.jpg',
 price: 24.95)
 # . . .
